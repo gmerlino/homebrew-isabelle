@@ -1,0 +1,3 @@
+session Migration_Check = HOL +
+  options [document = false, threads = 4, timeout = 180]
+  theories Migration_Check
